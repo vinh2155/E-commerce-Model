@@ -10,7 +10,7 @@ This dataset contains customer data with the following columns:
 - Time on Website: Average daily time (in minutes) spent on the company’s website.
 - Length of Membership: How many years the customer has been a member.
 - Yearly Amount Spent: Total money spent by the customer in a year (dependent variable).
----
+
 
 ## Purpose
 
